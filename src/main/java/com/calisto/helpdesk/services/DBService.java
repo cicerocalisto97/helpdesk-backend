@@ -12,9 +12,7 @@ import com.calisto.helpdesk.domain.enums.Perfil;
 import com.calisto.helpdesk.domain.enums.Prioridade;
 import com.calisto.helpdesk.domain.enums.Status;
 import com.calisto.helpdesk.repositories.ChamadoRepository;
-import com.calisto.helpdesk.repositories.ClienteRepository;
 import com.calisto.helpdesk.repositories.PessoaRepository;
-import com.calisto.helpdesk.repositories.TecnicoRepository;
 
 @Service
 public class DBService {
